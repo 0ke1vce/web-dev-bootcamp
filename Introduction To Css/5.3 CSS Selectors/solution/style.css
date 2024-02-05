@@ -1,0 +1,33 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+.note{
+  color: red;
+}
+#id-selector-demo{
+  color: aqua;
+  background: red;
+}
+li[value="4"]{
+  color: forestgreen;
+  font-size: 20px;
+}
+h1{
+
+  color: blue;
+  margin: 1px 1px;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  color: chartreuse;
+
+}
+*{
+  background-color:violet;
+  
+}
+/* Write your CSS below, don't change the rules above. */
